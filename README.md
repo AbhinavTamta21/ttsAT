@@ -7,3 +7,6 @@ For the emotion prediction from text, the program uses the VADER (Valence Aware 
 The program demonstrates the integration of these functionalities, showcasing how to synthesize speech from text and predict the associated emotion using pre-trained models and libraries.
 
 Please note that the program includes additional code segments related to installing dependencies and loading utility functions, which may be necessary for the specific environment or use case but not directly related to the core functionality of text-to-speech synthesis and emotion prediction.
+
+
+Check out some output at : https://drive.google.com/drive/folders/116t_gUXSchUpw6OFYrvS2iRaKWq8tweJ?usp=sharing
