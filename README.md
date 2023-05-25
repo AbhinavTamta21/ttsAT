@@ -10,3 +10,4 @@ Please note that the program includes additional code segments related to instal
 
 
 Check out some output at : https://drive.google.com/drive/folders/116t_gUXSchUpw6OFYrvS2iRaKWq8tweJ?usp=sharing
+In case this does not work kaggle notebook link : https://www.kaggle.com/code/tigerbunny21/text-to-speech-and-emotion
